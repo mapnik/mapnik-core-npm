@@ -4,7 +4,7 @@ Mapnik core binary NPM packages
 ```
 core-[platform]-[arch]
 ```
-## Mapnik v4.0.5 core dependencies                                                                                                                                           
+## Mapnik v4.0.6 core dependencies                                                                                                                                           
   - icu 76.1                                                                                                                                                         
   - boost 1.86                                                                                                                                                       
   - zlib 1.3.1                                                                                                                                                       
