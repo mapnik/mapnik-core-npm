@@ -4,7 +4,7 @@ Mapnik core binary NPM packages
 ```
 core-[platform]-[arch]
 ```
-## Mapnik v4.1.0 core dependecies
+## Mapnik v4.1.0 core dependencies
 - boost 1.88.0
 - cairo 1.18.4
 - expat 2.7.1
