@@ -4,6 +4,28 @@ Mapnik core binary NPM packages
 ```
 core-[platform]-[arch]
 ```
+## Mapnik v4.4.0 core dependencies
+- icu 79.1 
+- boost 1.92 
+- zlib 1.3.2 
+- zstd 1.5.7 
+- png 1.6.58 
+- webp 1.6.0 
+- freetype 2.15.0 
+- jpeg turbo-3.2.0 
+- sqlite 3.53.3 
+- tiff 4.7.2 
+- avif 1.4.2 
+- harfbuzz 15.1.0 
+- proj 9.9.0 
+- pixman 0.46.4 
+- cairo 1.18.6 
+- openssl 4.1.0 
+- postgresql 18.1 
+- geos 3.15.0 
+- expat 2.8.2 
+- gdal 3.13.3
+  
 ## Mapnik v4.3.0 core dependencies
 - boost 1.91.0
 - cairo 1.18.4
